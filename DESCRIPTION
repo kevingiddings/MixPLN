@@ -1,0 +1,16 @@
+Package: DangLoop
+Type: Package
+Title: Concise Summary of What the Package Does
+Version: 1.0
+Date: 2024-09-12
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: More about what it does (maybe more than one line).
+License: GPL (>= 2)
+Suggests: tinytest
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Imports: Rcpp (>= 1.0.13)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Packaged: 2024-11-30 22:54:57 UTC; kevingiddings
